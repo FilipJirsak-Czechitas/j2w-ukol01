@@ -1,6 +1,6 @@
 # Lekce 1, úkol 1
 
-Cílem je připravit si svůj osobní webový medailonek (například na úrovni jednodenního workshopu [Tvořím web HTML/CSS](https://www.czechitas.cz/cs/co-delame/tvorim-web)).
+Cílem je připravit si svůj osobní webový medailonek (například na úrovni půldenního kurzu [Úvod do HTML a CSS](https://www.czechitas.cz/kurzy/uvod-do-html-a-css-samostudium)).
 Soubory tvořící webovou stránku (`index.html`, styly, obrázky, …) uložíš do adresáře `/src/main/resources/static/` tak, aby při spuštění tvé aplikace byl
 medailonek zobrazen na úvodní stránce.
 
